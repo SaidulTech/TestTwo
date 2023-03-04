@@ -1,0 +1,249 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+.header{
+    display: inline-flex;
+}
+.logo{
+   
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+   
+}
+.manuber{
+    margin-left: 732px;
+    
+}
+.manuber nav{}
+.manuber nav ul{
+    
+}
+.manuber nav ul li{
+    display: inline;
+    display: inline;
+    background: orange;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding: 10px;
+    box-shadow: 4px 2px 5px black;
+    
+}
+.manuber nav ul li a{}
+    
+    
+.manuber nav ul li a:hover{
+    background: white;
+}
+.sj{
+    padding: 10px;
+    margin-left: 358px;
+}
+.btn{
+    padding: 10px;
+}
+.slider{
+    
+}
+.one {
+    
+}
+    
+.content{
+   
+    background: tomato;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: -430px;
+    width: 356px;
+   
+    
+}
+.content h1{
+    font-style: italic;
+}
+.content p{
+    padding: 10px;
+    
+}
+.content button{
+    padding: 15px;
+    width: 100%;
+    border-radius: 26px;
+    text-transform: uppercase;
+    background: transparent;
+    color:white;
+    font-weight: bold;
+}
+.bestwork{
+    
+    width: 97%;
+    display: inline-flex;
+    margin-top: 10px;
+    padding: 10px;
+    border: 9px solid rgb(214, 124, 6);
+
+}
+.bpone{
+    width: 73%;
+    text-align: justify;
+}
+.bpone img{
+    width: 90%;
+    border: 8px solid orange;
+    
+}
+.bpone h1{
+    
+}
+.bpone p{
+    font-size: 20px;
+    font-family: 'Aladin', cursive;
+}
+.service{
+    display: inline-flex;
+    padding: 10px;
+}
+.sone{
+    
+    width: 100%;
+    background: orange;
+    padding: 3px;
+    border: 5px solid;
+}
+.sone img{
+    width: 100%;
+    height: 61%;
+}
+.sone h1{
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.sone p{
+    text-align: justify;
+    font-family: 'Pacifico', cursive;
+    padding: 10px;
+}
+.sone button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 15px;
+}
+.clientReviue{
+    width: 64%;
+    background: peru;
+    padding: 43px;
+    border-radius: 93px;
+    margin-top: 15px;
+    margin-left: 248px;
+    margin-bottom: 20px;
+}
+.reviue p{
+    font-family: 'Pacifico', cursive;
+}
+.reviue h2{
+    margin-left: 494px;
+    font-size: 15px;
+    margin-left: 88%;
+}
+.team{
+    display: inline-flex;
+    border:3px solid black;
+}
+.tone{
+    width: 100%;
+    background: #ff9900;
+    padding: 16px;
+    border:3px solid rgb(70, 12, 12);
+}
+.tone img{
+    width: 88%;
+    height: 69%;
+
+}
+.tone h1{
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.tone p{
+    text-align: justify;
+    padding: 10px;
+    font-family: 'Aladin', cursive;
+}
+.tone button{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+.question{
+    color:red;
+}
+.answer{
+    color:green;
+}
+.question::before{
+    content: "Q. ";
+}
+.answer::before{
+    content: "Ans. ";
+}
+.footer{
+    width: 99%;
+    background: #00b9ff;
+    text-align: center;
+    font-size: 22px;
+}
+.footer p{
+   
+}
+.footer p a{
+    text-decoration: none;
+    margin-top: 44px;
+    margin-left: 20px;
+    font-family: 'Aladin', cursive;
+}
+
+.shorejaow{
+    margin-left: 744px;
+}
+.h1{
+    text-align: center;
+    background: purple;
+    color: white;
+    width: 1559px;
+}
+
+.red{
+    
+    background: url(../images/cover1.jfif);
+    
+    background-repeat: no-repeat;
+    
+}
+.green{
+    background: url(../images/cover2.jfif);
+   
+    background-repeat: no-repeat;
+}
+.blue{
+    background: url(../images/cover3.jfif);
+  
+    background-repeat: no-repeat;
+}
+.purple{
+    background: url(../images/cover4.jfif);
+   
+    background-repeat: no-repeat;
+}
